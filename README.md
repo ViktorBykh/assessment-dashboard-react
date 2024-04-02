@@ -6,6 +6,22 @@ The <b>Assessment Dashboard</b> project is a web application that interacts with
 </p>
 
 
+[DEMO LINK](https://ViktorBykh.github.io/assessment-dashboard-react)
+
+<h4>Test Data:</h4>
+<h6>Admin Login:</h6>
+<ul>
+  <li><strong>Email:</strong> admin@deepersignals.com</li>
+  <li><strong>Password:</strong> password</li>
+</ul>
+<h6>User Login:</h6>
+<ul>
+  <li><strong>Email:</strong> user@deepersignals.com</li>
+  <li><strong>Password:</strong> password</li>
+</ul>
+
+
+
 <h2>Key Features:</h2>
 <ol>
   <li>
