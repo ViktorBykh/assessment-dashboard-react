@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/assessment-dashboard-react/static/css/main.051a1200.css",
-    "main.js": "/assessment-dashboard-react/static/js/main.bec1e81a.js",
+    "main.js": "/assessment-dashboard-react/static/js/main.baeaeee0.js",
     "static/media/fa-solid-900.ttf": "/assessment-dashboard-react/static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
     "static/media/fa-brands-400.ttf": "/assessment-dashboard-react/static/media/fa-brands-400.6205fd00fb1b573e9f0f.ttf",
     "static/media/fa-solid-900.woff2": "/assessment-dashboard-react/static/media/fa-solid-900.fb8184add5a3101ad0a3.woff2",
@@ -12,10 +12,10 @@
     "static/media/fa-v4compatibility.woff2": "/assessment-dashboard-react/static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
     "index.html": "/assessment-dashboard-react/index.html",
     "main.051a1200.css.map": "/assessment-dashboard-react/static/css/main.051a1200.css.map",
-    "main.bec1e81a.js.map": "/assessment-dashboard-react/static/js/main.bec1e81a.js.map"
+    "main.baeaeee0.js.map": "/assessment-dashboard-react/static/js/main.baeaeee0.js.map"
   },
   "entrypoints": [
     "static/css/main.051a1200.css",
-    "static/js/main.bec1e81a.js"
+    "static/js/main.baeaeee0.js"
   ]
 }
