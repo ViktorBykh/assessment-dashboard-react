@@ -8,7 +8,7 @@ import { LoginForm } from "./components/LoginForm/LoginForm";
 export const App: React.FC = () => {
   const userRole = localStorage.getItem("role");
   return (
-    <Router>
+    <Router basename="/assessment-dashboard-react">
       <div className="section">
         <Routes>
           <Route path="/" element={<Navigate to="/api/login" />} />
